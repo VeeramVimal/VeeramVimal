@@ -134,6 +134,9 @@ I specialize in full-stack development, crafting seamless user experiences acros
 ### 📈 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&theme=radical)  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&theme=radical&cache_seconds=7200)
+
+
 ### 📫 Connect With Me  
 - **LinkedIn**: [https://www.linkedin.com/in/vimal-raj-m-76a947208/] (#)  
 - **GitHub**: [https://github.com/VeeramVimal/] (#)  
