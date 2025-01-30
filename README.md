@@ -36,7 +36,8 @@ I specialize in full-stack development, crafting seamless user experiences acros
 - **JWT & OAuth** – Secure authentication and authorization
   
 #### ***Skills***
-[![HTML5 Badge](https://img.shields.io/badge/html5-%23FED794.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
+
+[![HTML5 Badge](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
 ![CSS Badge](https://img.shields.io/badge/css-%23FED794.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%23FED794.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/react-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
