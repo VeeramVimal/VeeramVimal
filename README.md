@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💻 Vimalraj | MERN Stack Developer  👋
 
 <!--
 **VeeramVimal/VeeramVimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-aldsfklajdflajgfkafd
+### 🚀 About Me  
+Hello! I'm **Vimalraj**, a passionate **MERN Stack Developer** with **three years of experience** in designing and building scalable web applications. Throughout my career, I have successfully worked on **six diverse projects**, enhancing my problem-solving abilities and deepening my expertise in full-stack development.
+
+### 🛠️ Tech Stack & Expertise  
+I specialize in developing **high-performance web applications** using the following technologies:  
