@@ -38,9 +38,9 @@ I specialize in full-stack development, crafting seamless user experiences acros
 #### ***Skills***
 
 [![HTML5 Badge](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
-![CSS Badge](https://img.shields.io/badge/css-%23FED794.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%23FED794.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![React Badge](https://img.shields.io/badge/react-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Badge](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/redux-%23FED794.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/firebase-%23FED794.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23FED794.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -55,7 +55,7 @@ I specialize in full-stack development, crafting seamless user experiences acros
 [![TypeScript Badge](https://img.shields.io/badge/typescript-%23FED794.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://your-typescript-link-here)
 [![Git Badge](https://img.shields.io/badge/git-%23FED794.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-%23FED794.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://your-next-js-link-here)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-%23FED794.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Node.js Badge](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-%23FED794.svg?style=for-the-badge)](https://expressjs.com/)
 [![SQL Badge](https://img.shields.io/badge/SQL-%23FED794.svg?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23FED794.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
