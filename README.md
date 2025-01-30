@@ -146,5 +146,6 @@ I specialize in full-stack development, crafting seamless user experiences acros
 - **LinkedIn**: [https://www.linkedin.com/in/vimal-raj-m-76a947208/] (#)  
 - **GitHub**: [https://github.com/VeeramVimal/] (#)  
 - **Portfolio**: [https://vr-institute.vercel.app/] (#) 
+- **How to reach me**: [vimalvr003@gmail.com] (#)
 
 Let's collaborate and build something amazing! 🚀   
