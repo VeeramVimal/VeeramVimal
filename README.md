@@ -1,4 +1,4 @@
-## 💻 Vimalraj | MERN Stack Developer & React Native Developer  👋
+## 💻 Vimalraj | MERN Stack Developer & React Native Developer  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
 <!--
 **VeeramVimal/VeeramVimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,24 +16,12 @@ Here are some ideas to get you started:
 -->
 ![vr linkedin banner](https://github.com/user-attachments/assets/8d5b55c2-d551-4d98-8175-de2c7882c013)
 
-### 🚀 About Me  
+### 🚀 ***About Me***  
 Hello! I'm **Vimalraj**, a dedicated **MERN Stack & React Native Developer** with **three years of experience** in building scalable and efficient web and mobile applications. Throughout my career, I have worked on **six diverse projects**, including **Point of Sales (POS) systems, Customer Management Systems, CRM, Employee Management Systems, e-commerce mobile apps, and blockchain centralized exchanges**.
 
-### 🛠️ Tech Stack & Expertise  
-I specialize in full-stack development, crafting seamless user experiences across web and mobile platforms.  
-
-#### 🌐 Frontend Development  
-- **React.js & Angular** – Component-based architecture, hooks, Redux, RxJS  
-- **React Native** – Cross-platform mobile app development  
-- **HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS**  
-- **JavaScript (ES6+) & TypeScript**  
-
-⚙️ Backend Development  
-- **Node.js & Express.js** – RESTful APIs, middleware, authentication  
-- **MongoDB** – Schema design, indexing, aggregation  
-- **ODM (Mongoose) & ORM (Sequelize, Prisma)**  
-- **WebSockets & Socket.io** – Real-time communication for chat, notifications, live tracking  
-- **JWT & OAuth** – Secure authentication and authorization
+ <span align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=VeeramVimal&label=Profile%20views&color=FED794&style=for-the-badge" alt="VeeramVimal" /> 
+</span>
   
 #### ***Skills***
 <!--
@@ -120,10 +108,31 @@ I specialize in full-stack development, crafting seamless user experiences acros
 [![JWT Badge](https://img.shields.io/badge/JWT-%23FED794.svg?style=for-the-badge&logo=json-web-tokens&logoColor=black)](https://jwt.io/)
 [![VSCode Badge](https://img.shields.io/badge/VS_Code-%23FED794.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)](https://code.visualstudio.com/)
 
-#### 🔗 Blockchain  
+### 🛠️ ***Tech Stack & Expertise***  
+I specialize in full-stack development, crafting seamless user experiences across web and mobile platforms.  
+
+#### 🌐 ***Frontend Development***  
+- **React.js & Angular** – Component-based architecture, hooks, Redux, RxJS  
+- **React Native** – Cross-platform mobile app development  
+- **HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS**  
+- **JavaScript (ES6+) & TypeScript**  
+
+#### ⚙️ ***Backend Development***  
+- **Node.js & Express.js** – RESTful APIs, middleware, authentication  
+- **MongoDB** – Schema design, indexing, aggregation  
+- **ODM (Mongoose) & ORM (Sequelize, Prisma)**  
+- **WebSockets & Socket.io** – Real-time communication for chat, notifications, live tracking  
+- **JWT & OAuth** – Secure authentication and authorization
+
+#### 🔗 ***Blockchain***  
 - **Blockchain Centralized Exchange Development**  
 
-#### 🔥 Additional Skills  
+#### 📱 ***Mobile App Development***  
+- **React Native** – Android & iOS mobile app development  
+- **REST API Integration**  
+<!-- - **Push Notifications (FCM, OneSignal)**  -->
+
+#### 🔥 ***Additional Skills***  
 - API Development & Integration  
 - Microservices Architecture  
 - WebSockets & Real-Time Applications  
@@ -131,21 +140,20 @@ I specialize in full-stack development, crafting seamless user experiences acros
 - CI/CD, Git, GitHub Actions  
 - Docker & Kubernetes for Containerization  
 
-### 📈 My GitHub Stats  
+### 📈 ***My GitHub Stats***  
 
-![GitHub Issues](https://github-readme-stats.vercel.app/api/top-langs/?username=VeeramVimal&layout=compact&theme=radical)
+![GitHub Issues](https://github-readme-stats.vercel.app/api/top-langs/?username=VeeramVimal&layout=compact&theme=gotham)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&hide_title=true&count_private=true&include_commits=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&hide_title=true&count_private=true&include_commits=true&theme=gotham)
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&theme=radical&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VeeramVimal&theme=jolly" width="700">
 -->
 
-
-### 📫 Connect With Me  
+### 📫 ***Connect With Me***  
 - **LinkedIn**: [https://www.linkedin.com/in/vimal-raj-m-76a947208/] (#)  
 - **GitHub**: [https://github.com/VeeramVimal/] (#)  
 - **Portfolio**: [https://vr-institute.vercel.app/] (#) 
-- **How to reach me**: [vimalvr003@gmail.com] (#)
+- **Email**: [vimalvr003@gmail.com] (#)
 
 Let's collaborate and build something amazing! 🚀   
