@@ -132,11 +132,14 @@ I specialize in full-stack development, crafting seamless user experiences acros
 - Docker & Kubernetes for Containerization  
 
 ### 📈 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&theme=radical)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&&include_all_commits=true&count_private=true&theme=radical&cache_seconds=7200)
+![GitHub Issues](https://github-readme-stats.vercel.app/api/top-langs/?username=VeeramVimal&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&hide_title=true&count_private=true&include_commits=true&theme=radical)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&theme=radical&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VeeramVimal&theme=jolly" width="700">
+-->
 
 ### 📫 Connect With Me  
 - **LinkedIn**: [https://www.linkedin.com/in/vimal-raj-m-76a947208/] (#)  
