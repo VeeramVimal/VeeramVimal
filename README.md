@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![vr linkedin banner](https://github.com/user-attachments/assets/8d5b55c2-d551-4d98-8175-de2c7882c013)
 
 ### 🚀 About Me  
 Hello! I'm **Vimalraj**, a dedicated **MERN Stack & React Native Developer** with **three years of experience** in building scalable and efficient web and mobile applications. Throughout my career, I have worked on **six diverse projects**, including **Point of Sales (POS) systems, Customer Management Systems, CRM, Employee Management Systems, e-commerce mobile apps, and blockchain centralized exchanges**.
