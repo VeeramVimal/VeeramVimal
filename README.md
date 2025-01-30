@@ -33,7 +33,41 @@ I specialize in full-stack development, crafting seamless user experiences acros
 - **MongoDB** – Schema design, indexing, aggregation  
 - **ODM (Mongoose) & ORM (Sequelize, Prisma)**  
 - **WebSockets & Socket.io** – Real-time communication for chat, notifications, live tracking  
-- **JWT & OAuth** – Secure authentication and authorization  
+- **JWT & OAuth** – Secure authentication and authorization
+  
+#### ***Skills***
+[![HTML5 Badge](https://img.shields.io/badge/html5-%23FED794.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
+![CSS Badge](https://img.shields.io/badge/css-%23FED794.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/javascript-%23FED794.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React Badge](https://img.shields.io/badge/react-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/redux-%23FED794.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/firebase-%23FED794.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%23FED794.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Bootstrap Badge](https://img.shields.io/badge/react_bootstrap-%23FED794.svg?style=for-the-badge&logo=react&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/sass-%23FED794.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/tailwind_css-%23FED794.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI Badge](https://img.shields.io/badge/material_ui-%23FED794.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/postman-%23FED794.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Formik Badge](https://img.shields.io/badge/formik-%23FED794.svg?style=for-the-badge&logo=formik&logoColor=white)
+![Yup Badge](https://img.shields.io/badge/yup-%23FED794.svg?style=for-the-badge&logo=yup&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/github-%23FED794.svg?style=for-the-badge&logo=github&logoColor=white)
+[![TypeScript Badge](https://img.shields.io/badge/typescript-%23FED794.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://your-typescript-link-here)
+[![Git Badge](https://img.shields.io/badge/git-%23FED794.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-%23FED794.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://your-next-js-link-here)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-%23FED794.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-%23FED794.svg?style=for-the-badge)](https://expressjs.com/)
+[![SQL Badge](https://img.shields.io/badge/SQL-%23FED794.svg?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23FED794.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite3 Badge](https://img.shields.io/badge/SQLite3-%23FED794.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-%23FED794.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-%23FED794.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Sequelize Badge](https://img.shields.io/badge/Sequelize-%23FED794.svg?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+[![Mongoose Badge](https://img.shields.io/badge/Mongoose-%23FED794.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![ORM Badge](https://img.shields.io/badge/ORM-%23FED794.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)
+[![ODM Badge](https://img.shields.io/badge/ODM-%23FED794.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Object%E2%80%93document_mapping)
+[![JWT Badge](https://img.shields.io/badge/JWT-%23FED794.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![VSCode Badge](https://img.shields.io/badge/VS_Code-%23FED794.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 #### 🔗 Blockchain  
 - **Blockchain Centralized Exchange Development**  
