@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![vr linkedin banner](https://github.com/user-attachments/assets/8d5b55c2-d551-4d98-8175-de2c7882c013)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+will+have+a+greater+aim;I+will+continuesly+acquire+knowledge+aim;I+will+do+hard+work;I+will+persevere+and+succeed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+will+have+a+greater+aim;I+will+continuesly+acquire+knowledge+aim;I+will+do+hard+work;I+will+persevere+and+succeed&color=%23FED794)](https://git.io/typing-svg)
 
 
 ### 🚀 ***About Me***  
