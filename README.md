@@ -163,11 +163,9 @@ I specialize in full-stack development, crafting seamless user experiences acros
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimal-raj-m-76a947208/)
 
-<div id="badges">
-  <a href="(https://www.linkedin.com/in/vimal-raj-m-76a947208/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/vimal-raj-m-76a947208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+</a>
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api??quote=Let's+my+actions+speak+for+you&type=horizontal&theme=gotham)
 <!--
