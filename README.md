@@ -161,12 +161,6 @@ I specialize in full-stack development, crafting seamless user experiences acros
 - **Portfolio**: [https://vr-institute.vercel.app/] (#) 
 - **Email**: [vimalvr003@gmail.com] (#)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimal-raj-m-76a947208/)
-
-<a href="https://www.linkedin.com/in/vimal-raj-m-76a947208/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-</a>
-
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api??quote=Let's+my+actions+speak+for+you&type=horizontal&theme=gotham)
 <!--
 ![Custom Quote](https://img.shields.io/badge/Quote-Let's%20my%20actions%20speak%20for%20you-blue?style=for-the-badge&logo=github) 
