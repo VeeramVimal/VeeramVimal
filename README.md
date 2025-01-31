@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![vr linkedin banner](https://github.com/user-attachments/assets/8d5b55c2-d551-4d98-8175-de2c7882c013)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+will+have+a+greater+aim;I+will+continuesly+acquire+knowledge+aim;I+will+do+hard+work;I+will+persevere+and+succeed)](https://git.io/typing-svg)
+
+
 ### 🚀 ***About Me***  
 Hello! I'm **Vimalraj**, a dedicated **MERN Stack & React Native Developer** with **three years of experience** in building scalable and efficient web and mobile applications. Throughout my career, I have worked on **six diverse projects**, including **Point of Sales (POS) systems, Customer Management Systems, CRM, Employee Management Systems, e-commerce mobile apps, and blockchain centralized exchanges**.
 
@@ -144,7 +147,9 @@ I specialize in full-stack development, crafting seamless user experiences acros
 
 ![GitHub Issues](https://github-readme-stats.vercel.app/api/top-langs/?username=VeeramVimal&layout=compact&theme=gotham)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&hide_title=true&count_private=true&include_commits=true&theme=gotham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&hide_title=true&count_private=true&include_commits=true&theme=gotham&cache_seconds=21600&icon_color=D4AF37)
+
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeeramVimal&show_icons=true&theme=radical&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VeeramVimal&theme=jolly" width="700">
@@ -155,5 +160,18 @@ I specialize in full-stack development, crafting seamless user experiences acros
 - **GitHub**: [https://github.com/VeeramVimal/] (#)  
 - **Portfolio**: [https://vr-institute.vercel.app/] (#) 
 - **Email**: [vimalvr003@gmail.com] (#)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimal-raj-m-76a947208/)
+
+<div id="badges">
+  <a href="(https://www.linkedin.com/in/vimal-raj-m-76a947208/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api??quote=Let's+my+actions+speak+for+you&type=horizontal&theme=gotham)
+<!--
+![Custom Quote](https://img.shields.io/badge/Quote-Let's%20my%20actions%20speak%20for%20you-blue?style=for-the-badge&logo=github) 
+-->
 
 Let's collaborate and build something amazing! 🚀   
